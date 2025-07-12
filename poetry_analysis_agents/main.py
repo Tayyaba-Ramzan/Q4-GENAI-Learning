@@ -1,5 +1,3 @@
-# poetry_analysis_assignment.py
-
 # -------- 1. Poet Agent --------
 def poet_agent():
     return """
